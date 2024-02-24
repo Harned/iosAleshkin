@@ -11,6 +11,9 @@
 		C5987CAF2B89C6D90033CBF1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987CAE2B89C6D90033CBF1 /* ContentView.swift */; };
 		C5987CB12B89C6DA0033CBF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CB02B89C6DA0033CBF1 /* Assets.xcassets */; };
 		C5987CB42B89C6DA0033CBF1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CB32B89C6DA0033CBF1 /* Preview Assets.xcassets */; };
+		C5987CF22B89E0350033CBF1 /* Icon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CEF2B89E0350033CBF1 /* Icon.xcassets */; };
+		C5987CF32B89E0350033CBF1 /* ColorPalette.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */; };
+		C5987CF42B89E0350033CBF1 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CF12B89E0350033CBF1 /* Media.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		C5987CAE2B89C6D90033CBF1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C5987CB02B89C6DA0033CBF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5987CB32B89C6DA0033CBF1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C5987CEF2B89E0350033CBF1 /* Icon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Icon.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/Icon.xcassets"; sourceTree = "<group>"; };
+		C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = ColorPalette.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/ColorPalette.xcassets"; sourceTree = "<group>"; };
+		C5987CF12B89E0350033CBF1 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Media.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/Media.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +57,7 @@
 		C5987CAB2B89C6D90033CBF1 /* iosAleshkin */ = {
 			isa = PBXGroup;
 			children = (
+				C5987CEE2B89DF750033CBF1 /* Assts */,
 				C5987CAC2B89C6D90033CBF1 /* iosAleshkinApp.swift */,
 				C5987CAE2B89C6D90033CBF1 /* ContentView.swift */,
 				C5987CB02B89C6DA0033CBF1 /* Assets.xcassets */,
@@ -65,6 +72,16 @@
 				C5987CB32B89C6DA0033CBF1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C5987CEE2B89DF750033CBF1 /* Assts */ = {
+			isa = PBXGroup;
+			children = (
+				C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */,
+				C5987CEF2B89E0350033CBF1 /* Icon.xcassets */,
+				C5987CF12B89E0350033CBF1 /* Media.xcassets */,
+			);
+			path = Assts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +142,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5987CF42B89E0350033CBF1 /* Media.xcassets in Resources */,
+				C5987CF22B89E0350033CBF1 /* Icon.xcassets in Resources */,
 				C5987CB42B89C6DA0033CBF1 /* Preview Assets.xcassets in Resources */,
 				C5987CB12B89C6DA0033CBF1 /* Assets.xcassets in Resources */,
+				C5987CF32B89E0350033CBF1 /* ColorPalette.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
