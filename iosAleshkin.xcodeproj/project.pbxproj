@@ -14,6 +14,8 @@
 		C5987CF22B89E0350033CBF1 /* Icon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CEF2B89E0350033CBF1 /* Icon.xcassets */; };
 		C5987CF32B89E0350033CBF1 /* ColorPalette.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */; };
 		C5987CF42B89E0350033CBF1 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CF12B89E0350033CBF1 /* Media.xcassets */; };
+		C5987CF62B89E0F80033CBF1 /* ColorPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987CF52B89E0F80033CBF1 /* ColorPalette.swift */; };
+		C5987CFC2B89E38E0033CBF1 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987CFB2B89E38E0033CBF1 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		C5987CEF2B89E0350033CBF1 /* Icon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Icon.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/Icon.xcassets"; sourceTree = "<group>"; };
 		C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = ColorPalette.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/ColorPalette.xcassets"; sourceTree = "<group>"; };
 		C5987CF12B89E0350033CBF1 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Media.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/Media.xcassets"; sourceTree = "<group>"; };
+		C5987CF52B89E0F80033CBF1 /* ColorPalette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPalette.swift; sourceTree = "<group>"; };
+		C5987CFB2B89E38E0033CBF1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,7 @@
 		C5987CAB2B89C6D90033CBF1 /* iosAleshkin */ = {
 			isa = PBXGroup;
 			children = (
+				C5987CF82B89E2D60033CBF1 /* views */,
 				C5987CEE2B89DF750033CBF1 /* Assts */,
 				C5987CAC2B89C6D90033CBF1 /* iosAleshkinApp.swift */,
 				C5987CAE2B89C6D90033CBF1 /* ContentView.swift */,
@@ -80,8 +85,17 @@
 				C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */,
 				C5987CEF2B89E0350033CBF1 /* Icon.xcassets */,
 				C5987CF12B89E0350033CBF1 /* Media.xcassets */,
+				C5987CF52B89E0F80033CBF1 /* ColorPalette.swift */,
 			);
 			path = Assts;
+			sourceTree = "<group>";
+		};
+		C5987CF82B89E2D60033CBF1 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				C5987CFB2B89E38E0033CBF1 /* MainView.swift */,
+			);
+			path = views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -159,6 +173,8 @@
 			files = (
 				C5987CAF2B89C6D90033CBF1 /* ContentView.swift in Sources */,
 				C5987CAD2B89C6D90033CBF1 /* iosAleshkinApp.swift in Sources */,
+				C5987CF62B89E0F80033CBF1 /* ColorPalette.swift in Sources */,
+				C5987CFC2B89E38E0033CBF1 /* MainView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
