@@ -23,6 +23,7 @@
 		C5987D0A2B8A45A40033CBF1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D092B8A45A40033CBF1 /* CardView.swift */; };
 		C5987D0C2B8A487D0033CBF1 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D0B2B8A487D0033CBF1 /* SearchView.swift */; };
 		C5987D0E2B8A490E0033CBF1 /* ServicePanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D0D2B8A490E0033CBF1 /* ServicePanelView.swift */; };
+		C5987D142B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png in Resources */ = {isa = PBXBuildFile; fileRef = C5987D132B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		C5987D092B8A45A40033CBF1 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		C5987D0B2B8A487D0033CBF1 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		C5987D0D2B8A490E0033CBF1 /* ServicePanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicePanelView.swift; sourceTree = "<group>"; };
+		C5987D132B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png"; path = "../Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		C5987CA02B89C6D90033CBF1 = {
 			isa = PBXGroup;
 			children = (
+				C5987D132B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png */,
 				C5987CAB2B89C6D90033CBF1 /* iosAleshkin */,
 				C5987CAA2B89C6D90033CBF1 /* Products */,
 			);
@@ -195,6 +198,7 @@
 			files = (
 				C5987CF42B89E0350033CBF1 /* Media.xcassets in Resources */,
 				C5987CF22B89E0350033CBF1 /* Icon.xcassets in Resources */,
+				C5987D142B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png in Resources */,
 				C5987CB42B89C6DA0033CBF1 /* Preview Assets.xcassets in Resources */,
 				C5987CB12B89C6DA0033CBF1 /* Assets.xcassets in Resources */,
 				C5987CF32B89E0350033CBF1 /* ColorPalette.xcassets in Resources */,
