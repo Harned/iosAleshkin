@@ -31,6 +31,7 @@ func getStringTime(date: Date) -> Array<String> {
 }
 
 struct CardView: View {
+   
     var nearestVisit: Visit
     var baseColor = BaseColor()
     
