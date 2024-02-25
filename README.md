@@ -2,5 +2,6 @@
 На пересдачу 26.02
 Алешкин Дмитрий, МИБ-001, 4 курс, ФЦТК
 
-Скриншот
+
+
 ![image](https://github.com/Harned/iosAleshkin/assets/99013503/3b8894cc-f7e0-4af0-82df-1de938c6c345)
