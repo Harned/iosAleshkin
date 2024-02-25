@@ -11,6 +11,19 @@
 		C5987CAF2B89C6D90033CBF1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987CAE2B89C6D90033CBF1 /* ContentView.swift */; };
 		C5987CB12B89C6DA0033CBF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CB02B89C6DA0033CBF1 /* Assets.xcassets */; };
 		C5987CB42B89C6DA0033CBF1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CB32B89C6DA0033CBF1 /* Preview Assets.xcassets */; };
+		C5987CF22B89E0350033CBF1 /* Icon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CEF2B89E0350033CBF1 /* Icon.xcassets */; };
+		C5987CF32B89E0350033CBF1 /* ColorPalette.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */; };
+		C5987CF42B89E0350033CBF1 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5987CF12B89E0350033CBF1 /* Media.xcassets */; };
+		C5987CF62B89E0F80033CBF1 /* ColorPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987CF52B89E0F80033CBF1 /* ColorPalette.swift */; };
+		C5987CFF2B89E7FE0033CBF1 /* Doctor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987CFE2B89E7FE0033CBF1 /* Doctor.swift */; };
+		C5987D022B89E84F0033CBF1 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D012B89E84F0033CBF1 /* User.swift */; };
+		C5987D042B89E8630033CBF1 /* Visit.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D032B89E8630033CBF1 /* Visit.swift */; };
+		C5987D062B89E8DA0033CBF1 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D052B89E8DA0033CBF1 /* HeaderView.swift */; };
+		C5987D082B89EA090033CBF1 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D072B89EA090033CBF1 /* MainView.swift */; };
+		C5987D0A2B8A45A40033CBF1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D092B8A45A40033CBF1 /* CardView.swift */; };
+		C5987D0C2B8A487D0033CBF1 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D0B2B8A487D0033CBF1 /* SearchView.swift */; };
+		C5987D0E2B8A490E0033CBF1 /* ServicePanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5987D0D2B8A490E0033CBF1 /* ServicePanelView.swift */; };
+		C5987D142B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png in Resources */ = {isa = PBXBuildFile; fileRef = C5987D132B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		C5987CAE2B89C6D90033CBF1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C5987CB02B89C6DA0033CBF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5987CB32B89C6DA0033CBF1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C5987CEF2B89E0350033CBF1 /* Icon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Icon.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/Icon.xcassets"; sourceTree = "<group>"; };
+		C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = ColorPalette.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/ColorPalette.xcassets"; sourceTree = "<group>"; };
+		C5987CF12B89E0350033CBF1 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Media.xcassets; path = "../../../../Downloads/lab2-main 2/app/assets/Media.xcassets"; sourceTree = "<group>"; };
+		C5987CF52B89E0F80033CBF1 /* ColorPalette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPalette.swift; sourceTree = "<group>"; };
+		C5987CFE2B89E7FE0033CBF1 /* Doctor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Doctor.swift; sourceTree = "<group>"; };
+		C5987D012B89E84F0033CBF1 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		C5987D032B89E8630033CBF1 /* Visit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Visit.swift; sourceTree = "<group>"; };
+		C5987D052B89E8DA0033CBF1 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		C5987D072B89EA090033CBF1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		C5987D092B8A45A40033CBF1 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		C5987D0B2B8A487D0033CBF1 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		C5987D0D2B8A490E0033CBF1 /* ServicePanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicePanelView.swift; sourceTree = "<group>"; };
+		C5987D132B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png"; path = "../Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +61,7 @@
 		C5987CA02B89C6D90033CBF1 = {
 			isa = PBXGroup;
 			children = (
+				C5987D132B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png */,
 				C5987CAB2B89C6D90033CBF1 /* iosAleshkin */,
 				C5987CAA2B89C6D90033CBF1 /* Products */,
 			);
@@ -51,6 +78,9 @@
 		C5987CAB2B89C6D90033CBF1 /* iosAleshkin */ = {
 			isa = PBXGroup;
 			children = (
+				C5987CFD2B89E7DF0033CBF1 /* Models */,
+				C5987CF82B89E2D60033CBF1 /* views */,
+				C5987CEE2B89DF750033CBF1 /* Assts */,
 				C5987CAC2B89C6D90033CBF1 /* iosAleshkinApp.swift */,
 				C5987CAE2B89C6D90033CBF1 /* ContentView.swift */,
 				C5987CB02B89C6DA0033CBF1 /* Assets.xcassets */,
@@ -65,6 +95,47 @@
 				C5987CB32B89C6DA0033CBF1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C5987CEE2B89DF750033CBF1 /* Assts */ = {
+			isa = PBXGroup;
+			children = (
+				C5987CF02B89E0350033CBF1 /* ColorPalette.xcassets */,
+				C5987CEF2B89E0350033CBF1 /* Icon.xcassets */,
+				C5987CF12B89E0350033CBF1 /* Media.xcassets */,
+				C5987CF52B89E0F80033CBF1 /* ColorPalette.swift */,
+			);
+			path = Assts;
+			sourceTree = "<group>";
+		};
+		C5987CF82B89E2D60033CBF1 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				C5987D052B89E8DA0033CBF1 /* HeaderView.swift */,
+				C5987D072B89EA090033CBF1 /* MainView.swift */,
+				C5987D092B8A45A40033CBF1 /* CardView.swift */,
+				C5987D0B2B8A487D0033CBF1 /* SearchView.swift */,
+				C5987D0D2B8A490E0033CBF1 /* ServicePanelView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		C5987CFD2B89E7DF0033CBF1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C5987D012B89E84F0033CBF1 /* User.swift */,
+				C5987D032B89E8630033CBF1 /* Visit.swift */,
+				C5987D002B89E8370033CBF1 /* Model */,
+				C5987CFE2B89E7FE0033CBF1 /* Doctor.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C5987D002B89E8370033CBF1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +196,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5987CF42B89E0350033CBF1 /* Media.xcassets in Resources */,
+				C5987CF22B89E0350033CBF1 /* Icon.xcassets in Resources */,
+				C5987D142B8A788E0033CBF1 /* Simulator Screen Shot - iPhone 11 - 2024-02-25 at 01.18.19.png in Resources */,
 				C5987CB42B89C6DA0033CBF1 /* Preview Assets.xcassets in Resources */,
 				C5987CB12B89C6DA0033CBF1 /* Assets.xcassets in Resources */,
+				C5987CF32B89E0350033CBF1 /* ColorPalette.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +212,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5987D0C2B8A487D0033CBF1 /* SearchView.swift in Sources */,
 				C5987CAF2B89C6D90033CBF1 /* ContentView.swift in Sources */,
+				C5987D0A2B8A45A40033CBF1 /* CardView.swift in Sources */,
+				C5987D082B89EA090033CBF1 /* MainView.swift in Sources */,
+				C5987CFF2B89E7FE0033CBF1 /* Doctor.swift in Sources */,
+				C5987D022B89E84F0033CBF1 /* User.swift in Sources */,
 				C5987CAD2B89C6D90033CBF1 /* iosAleshkinApp.swift in Sources */,
+				C5987CF62B89E0F80033CBF1 /* ColorPalette.swift in Sources */,
+				C5987D042B89E8630033CBF1 /* Visit.swift in Sources */,
+				C5987D0E2B8A490E0033CBF1 /* ServicePanelView.swift in Sources */,
+				C5987D062B89E8DA0033CBF1 /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
